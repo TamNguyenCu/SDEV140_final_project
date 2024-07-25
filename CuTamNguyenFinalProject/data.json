@@ -1,0 +1,76 @@
+{
+    "menu": [
+        {
+            "name": "Pepperoni Pizza",
+            "toppings": {"Pepperoni":1,"Mozzarella Cheese":1, "Marinara Sauce":1, "Bacon":0, "Beef":0, "Pork":0, "Grilled Chicken":0, "Mushrooms":0, "Green Bell Peppers":0, "Red Onions":0},
+            "sizes": ["Large", "Medium", "Small"],
+            "crust": ["Hand Tossed", "Crunchy Thin", "Original Stuffed", "Original Pan"],
+            "price": 15.78,
+            "image_path": "images/Pizza_PEPPERONI.png"
+        },
+        {
+            "name": "Cheese Pizza",
+            "toppings": {"Pepperoni":0,"Mozzarella Cheese":1, "Marinara Sauce":1, "Bacon":0, "Beef":0, "Pork":0, "Grilled Chicken":0, "Mushrooms":0, "Green Bell Peppers":0, "Red Onions":0},
+            "sizes": ["Large", "Medium", "Small"],
+            "crust": ["Hand Tossed", "Crunchy Thin", "Original Stuffed", "Original Pan"],
+            "price": 13.99,
+            "image_path": "images/Pizza_CHEESE.png"
+        },
+        {
+            "name": "Supreme Pizza",
+            "toppings": {"Pepperoni":1,"Mozzarella Cheese":0, "Marinara Sauce":1, "Bacon":0, "Beef":1, "Pork":1, "Grilled Chicken":0, "Mushrooms":1, "Green Bell Peppers":1, "Red Onions":1},
+            "sizes": ["Large", "Medium", "Small"],
+            "crust": ["Hand Tossed", "Crunchy Thin", "Original Stuffed", "Original Pan"],
+            "price": 18.99,
+            "image_path": "images/Pizza_SUPREME.png"
+        },
+        {
+            "name": "Garlic Bread",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 5.99,
+            "image_path": "images/Sides_GarlicBread.png"
+        },
+        {
+            "name": "Cheese Bread",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 7.99,
+            "image_path": "images/Sides_CheeseBread.png"
+        },
+        {
+            "name": "Breadsticks",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 6.19,
+            "image_path": "images/Sides_Breadsticks.png"
+        },
+        {
+            "name": "PEPSI",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 2.49,
+            "image_path": "images/Drinks_Pepsi.png"
+        },
+        {
+            "name": "MTN DEW",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 2.49,
+            "image_path": "images/Drinks_MtnDew.png"
+        },
+        {
+            "name": "Mug Root Beer",
+            "toppings": [],
+            "sizes": [],
+            "crust": [],
+            "price": 18.99,
+            "image_path": "images/Drinks_MugRootBeer.png"
+        }
+    ]
+}
